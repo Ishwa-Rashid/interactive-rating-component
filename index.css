@@ -8,6 +8,10 @@
     color: hsl(228, 45%, 44%);
 }
 
+html {
+	height: -webkit-fill-available;
+}
+
 body {
     /*background-color: hsl(216, 12%, 8%);*/
 	font-family: 'Overpass', sans-serif;
@@ -18,6 +22,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
+    min-height: -webkit-fill-available;
 }
 
 h1 {
