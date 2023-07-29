@@ -1,6 +1,7 @@
 .attribution { 
-    font-size: 11px; text-align: center; 
-	display: none;
+    font-size: 11px; 
+	text-align: center; 
+	margin-top: 2rem;
 }
 
 .attribution a {
@@ -34,7 +35,7 @@ p {
 	border-radius: 2rem;
 	padding: 25px;
 	width: 25%;
-	min-width: 300px;
+	min-width: 260px;
 
 }
 
@@ -113,9 +114,9 @@ button {
 	color: hsl(25, 97%, 53%);
 	background-color: hsl(213, 19%, 22%);
 	border-radius: 50px;
-	padding-top: 0.3rem;
+	padding-top: 0.5rem;
 	padding-bottom: 0.2rem;
-	width: 50%;
+	width: 200px;
 	margin: auto;
 }  
 
